@@ -1,0 +1,4 @@
+tast_add_fuel_carf:['12345678', 'abc', 'abc123', 'abc#123', '']
+test_add_fuel_card_exist:['123456']
+test_add_fule_card_twice:['12345678', '23456789']
+test_add_fule_card_3times:['12345678', '23456789', '34567890']
